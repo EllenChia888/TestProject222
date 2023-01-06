@@ -83,7 +83,6 @@ Children:
     ModellingRule: Optional
     Value: 400.0
   - Name: Etichetta1
-    Id: g=eed41162eaa54a9a7155389cf67a55ac
     Type: Label
     Children:
     - Name: Text
